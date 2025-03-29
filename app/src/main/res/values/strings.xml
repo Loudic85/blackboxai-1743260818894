@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EV3 Controller</string>
+    <string name="forward">Forward</string>
+    <string name="backward">Backward</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="action_a">Action A</string>
+    <string name="action_b">Action B</string>
+    <string name="action_c">Action C</string>
+    <string name="action_d">Action D</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connection_failed">Connection Failed</string>
+    <string name="enable_bluetooth">Please enable Bluetooth</string>
+    <string name="bluetooth_not_supported">Bluetooth not supported</string>
+    <string name="permissions_denied">Permissions not granted by the user.</string>
+</resources>
